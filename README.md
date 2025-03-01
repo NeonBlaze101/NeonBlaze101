@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![NeonBlaze101's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeonBlaze101)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NeonBlaze101/NeonBlaze101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
